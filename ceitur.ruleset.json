@@ -1,0 +1,36 @@
+{
+  "name": "RULES",
+  "description": "Reglas exclusion proyectos Atennea",
+  "rules": [
+    {
+      "id": "PTE0001",
+      "action": "Hidden",
+      "justification": "La numeración de AddOn también es valida para nosotros"
+    },
+    {
+      "id": "AA0072",
+      "action": "Hidden",
+      "justification": "Los nombres de variables están bien así"
+    },    
+    {
+      "id": "AA0215",
+      "action": "Hidden",
+      "justification": "Los nombres de fichero los ponemos nosotros"
+    },    
+    {
+      "id": "AA0021",
+      "action": "Hidden",
+      "justification": "No hace falta que las variables esten ordenadas"
+    },    
+    {
+      "id": "AA0074",
+      "action": "Hidden",
+      "justification": "De momento dejamos los labels sin prefijo ni sufijo"
+    },    
+    {
+      "id": "AA0470",
+      "action": "Hidden",
+      "justification": "De momento dejamos los labels los placeholders"
+    }
+  ]
+}
