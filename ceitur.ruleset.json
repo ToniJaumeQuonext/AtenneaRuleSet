@@ -31,6 +31,11 @@
       "id": "AA0470",
       "action": "Hidden",
       "justification": "De momento dejamos los labels los placeholders"
+    },    
+    {
+      "id": "AA0005",
+      "action": "Hidden",
+      "justification": "De momento dejamos poner begin end para una sola linea"
     }
   ]
 }
