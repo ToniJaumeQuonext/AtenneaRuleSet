@@ -36,6 +36,11 @@
       "id": "AA0005",
       "action": "Hidden",
       "justification": "De momento dejamos poner begin end para una sola linea"
+    },    
+    {
+      "id": "AA0073",
+      "action": "Hidden",
+      "justification": "Convervamos nuestros nombres de las variables temporary"
     }
   ]
 }
