@@ -46,6 +46,11 @@
       "id": "AA0218",
       "action": "Hidden",
       "justification": "No obligamos a meter el tooltip"
+    },
+    {
+      "id": "AA0139",
+      "action": "Hidden",
+      "justification": "De momento no revisamos los posible overflow"
     }
   ]
 }
