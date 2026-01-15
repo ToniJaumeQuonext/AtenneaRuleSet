@@ -56,6 +56,16 @@
       "id": "AS0099",
       "action": "Hidden",
       "justification": "De momento no revisamos los posible overflow"
+    },
+    {
+      "id": "AA0137",
+      "action": "Hidden",
+      "justification": "De momento no queremos el aviso de Variable no utilizada"
+    },
+    {
+      "id": "AA0231",
+      "action": "Hidden",
+      "justification": "De momento no queremos el aviso de No uses StrSubstNo o concatenación de cadenas para construir mensajes o textos que admitan traducción. Usa Label o TextConst en su lugar"
     }    
   ]
 }
