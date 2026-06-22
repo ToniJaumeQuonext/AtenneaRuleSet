@@ -71,6 +71,11 @@
       "id": "AA0247",
       "action": "Hidden",
       "justification": "De momento no queremos el aviso de uso de los namespaces"
-    }    
+    },
+    {
+      "id": "AA0232",
+      "action": "Hidden",
+      "justification": "De momento no queremos el aviso de uso de los campos que hay que añadir en los SIFT"
+    }
   ]
 }
